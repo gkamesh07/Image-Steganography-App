@@ -1,5 +1,5 @@
 # stegoChat
-<h2>Live website: <a href='https://stegochat.herokuapp.com' target="_blank">stegochat.herokuapp.com</a></h2>
+<h2>Live website: <a href='https://image-steganography-app.herokuapp.com/' target="_blank">stegochat.herokuapp.com</a></h2>
 
 <h5>To Run Locally:</h5>
 <ol>
